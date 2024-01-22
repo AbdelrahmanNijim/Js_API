@@ -1,0 +1,16 @@
+.prodect{
+    display:flex ;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+}
+.prodect img{
+    
+    width: 100%;
+}
+.prodect h1{
+    color: cadetblue;
+    font-size: 48px;
+    font-family: fantasy;
+    font-weight: 800;
+}
